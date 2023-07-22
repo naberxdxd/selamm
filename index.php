@@ -5,6 +5,9 @@
     
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <body bgcolor="black" style="color:dark"><center>
+        body {
+    background-color: #000000;
+}
     <br><br><br>
     <img src="https://cdn.discordapp.com/attachments/1094387576032465046/1094601469115760770/222.png">
     <br><br><br>
