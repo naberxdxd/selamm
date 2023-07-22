@@ -11,16 +11,14 @@
 }
        </script>
     <br><br><br>
-    <img src="https://cdn.discordapp.com/attachments/1094387576032465046/1094601469115760770/222.png">
-    <br><br><br>
     
-    <font face="Courier New" color="red" size="9"><span style="text-shadow: 0px 0px 9px ;"><strong>hacked by regex</strong></span></font>
+    <font face="Courier New" color="black" size="9"><span style="text-shadow: 0px 0px 9px ;"><strong>hacked by regex</strong></span></font>
     
     <br><br><hr width="9%"><br><br>
     
-    <font face="Courier New" color="red" size="5"><span style="text-shadow: 0px 0px 9px ;"><strong>Hack</strong> bir <strong>zanaattir zanaat</strong> ise bir <strong>yetenektir! </strong></span></font>&nbsp;&nbsp;<font face="Courier New" color="red" size="5"></font>
+    <font face="Courier New" color="black" size="5"><span style="text-shadow: 0px 0px 9px ;"><strong>Hack</strong> bir <strong>zanaattir zanaat</strong> ise bir <strong>yetenektir! </strong></span></font>&nbsp;&nbsp;<font face="Courier New" color="red" size="5"></font>
  <br><br>   
-    <font face="Courier New" color="red" size="6">illegalmedya.net Sundu. <br> 
+    <font face="Courier New" color="black" size="6">- illegalmedya.net - <br> 
     
     <br><hr width="9%"><br>
     
