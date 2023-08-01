@@ -12,7 +12,7 @@
        </script>
     <br><br><br>
     
-    <font face="Courier New" color="black" size="9"><span style="text-shadow: 0px 0px 9px ;"><strong>hacked by regex</strong></span></font>
+    <font face="Courier New" color="black" size="9"><span style="text-shadow: 0px 0px 9px ;"><strong>hacked by regex & cruse</strong></span></font>
     
     <br><br><hr width="9%"><br><br>
     
