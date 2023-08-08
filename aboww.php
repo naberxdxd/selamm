@@ -12,13 +12,13 @@
        </script>
     <br><br><br>
     
-    <font face="Courier New" color="black" size="9"><span style="text-shadow: 0px 0px 9px ;"><strong>hacked by regex & cruse</strong></span></font>
+    <font face="Courier New" color="black" size="9"><span style="text-shadow: 0px 0px 9px ;"><strong>hacked by regex</strong></span></font>
     
     <br><br><hr width="9%"><br><br>
     
     <font face="Courier New" color="black" size="5"><span style="text-shadow: 0px 0px 9px ;"><strong>Hack</strong> bir <strong>zanaattir zanaat</strong> ise bir <strong>yetenektir! </strong></span></font>&nbsp;&nbsp;<font face="Courier New" color="red" size="5"></font>
  <br><br>   
-    <font face="Courier New" color="black" size="6">- illegalmedya.net - <br> 
+    <font face="Courier New" color="black" size="6">- dexuspro.com - <br> 
     
     <br><hr width="9%"><br>
     
